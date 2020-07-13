@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* This was my very first Android app so the majority of my time was trying to understand the terminology and especially how to connect activities or "pages" in the app.
+* Android Studio was helpful in autocompleting the code which though helpful did push me to try and understand what the role different functions was.
+* Over the next few days, I will be trying to add in some UI components, due date function, and setting priorities.
 
 ## License
 
